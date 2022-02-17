@@ -1,4 +1,4 @@
-# Luna Bot Free
+# Luna Bot Free | Password: lunarush.io
 The bot does not interact directly with the game, it only takes screenshots of the game to find buttons and imitate mouse movements. It is very difficult to distinguish a bot from a human.
 
 # Instalation guide (only once)
